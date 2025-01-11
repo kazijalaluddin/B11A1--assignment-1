@@ -220,3 +220,54 @@ img {
 .footer1{
     text-align: center;
 }
+.donate{
+    text-align: center;
+}
+
+
+.boxmain {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: center; 
+    padding: 20px;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+.box {
+    flex: 1 1 200px; 
+    max-width: 200px; 
+    height: 80px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:whitesmoke;
+    color:black;
+    border-radius: 10px; 
+    
+    text-align: center;
+   
+}
+
+#taka {
+
+    background-color: #C6E4D6
+
+}
+.otheramount {
+    text-align: center;
+    align-items: center;
+
+}
+
+.donatebutton {
+
+    padding: 12px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+}
+
