@@ -39,7 +39,7 @@ header {
     justify-content: space-between;
     padding: 20px;
     background-color: #e8f5e9;
-    /* min-height: 100vh; */
+    
 }
 
 .content {
@@ -74,14 +74,10 @@ header {
     background-color: #388e3c;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
     margin-top: 20px;
-    transition: background-color 0.3s;
+    
 }
 
-.content button:hover {
-    background-color: #2e7d32;
-}
 
 .image {
     flex: 1;
@@ -99,7 +95,7 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 20px; /* Adds space between the items */
+    gap: 20px; 
     padding: 20px;
     background-color: #ffffff;
 }
@@ -109,13 +105,11 @@ header {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    flex: 1; /* Makes each item flexible */
-    max-width: 250px; /* Limits the width of each item */
+    flex: 1; 
+    max-width: 250px; 
     padding: 15px;
     background-color: #f4f4f4;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s, box-shadow 0.3s;
 }
 
 
@@ -196,7 +190,7 @@ header {
 
 .news-right1 img {
     border-radius: 10px;
-    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    
 }
 .footer1{
     text-align: center;
