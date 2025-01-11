@@ -168,12 +168,12 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 20px; /* Space between columns */
+    gap: 20px; 
     padding: 20px;
-    background-color: #ffffff;
+    /* background-color: #ffffff;
     max-width: 1200px;
     margin: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
     border-radius: 10px;
 }
 
@@ -187,8 +187,8 @@ img {
     background-color: #007bff;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+   
+   
 }
 
 
@@ -202,8 +202,8 @@ img {
     background-color: #28a745;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+    
+    
 }
 
 
